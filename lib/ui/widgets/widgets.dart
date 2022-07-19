@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:shimmer/shimmer.dart';
+import 'package:tawari/domain/blocs/blocs.dart';
+import 'package:tawari/data/env/env.dart';
+import 'package:tawari/ui/helpers/helpers.dart';
+import 'package:tawari/ui/screens/home/home_page.dart';
+import 'package:tawari/ui/screens/notifications/notifications_page.dart';
+import 'package:tawari/ui/screens/profile/profile_page.dart';
+import 'package:tawari/ui/screens/reels/reel_home_screen.dart';
+import 'package:tawari/ui/screens/searchs/search_page.dart';
+import 'package:tawari/ui/themes/colors_tbd.dart';
+
+part 'text_custom.dart';
+part 'field_tbd.dart';
+part 'btn_tbd.dart';
+part 'bottom_nav.dart';
+part 'shimmer_tbd.dart';
+part 'item_modal.dart';
